@@ -3,7 +3,6 @@ import { expect } from 'chai'
 import BN from "bn.js";
 import { maticTxRequestConfigToWeb3 } from "@maticnetwork/maticjs-web3";
 import { ITransactionRequestConfig, ABIManager } from "@maticnetwork/maticjs";
-import { Tx } from "web3/eth/types";
 import Web3 from "web3";
 
 
